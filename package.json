@@ -1,0 +1,13 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:laporeon/weather-cli.git",
+  "author": "Laise Carvalho <34722707+laporeon@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.0",
+    "commander": "^9.2.0",
+    "dotenv": "^16.0.0"
+  }
+}
